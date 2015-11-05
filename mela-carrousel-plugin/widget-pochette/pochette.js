@@ -1,23 +1,24 @@
-(function( $ )
-{
-	$.fn.pochette = function(option)
-	{
+// // Ne pas en tenir compte
+// (function( $ )
+// {
+// 	$.fn.pochette = function(option)
+// 	{
 
 		
-		switch(option)
-		{
-			case "principale":
+// 		switch(option)
+// 		{
+// 			case "principale":
 
-			break;
-		}
-		return this.pochette;
-	}
+// 			break;
+// 		}
+// 		return this.pochette;
+// 	}
 
-}(jQuery));
+// }(jQuery));
 
-$("div").pochette("principale", image)
-$("div").pochette("gauche", {})
-typeAlignement
-height
-width
-bgImage
+// $("div").pochette("principale", image)
+// $("div").pochette("gauche", {})
+// typeAlignement
+// height
+// width
+// bgImage
